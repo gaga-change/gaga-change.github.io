@@ -1,12 +1,5 @@
-logs/*
-!.gitkeep
-node_modules/
-bower_components/
-bower/
-tmp
-.DS_Store
+_site
+.sass-cache
+Gemfile.lock
+*.gem
 .idea
-test.html
-test.less
-test.js
-*test.js
